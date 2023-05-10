@@ -1,5 +1,4 @@
 import { useLayoutEffect } from "react";
-import { View, FlatList, StyleSheet } from "react-native";
 
 import { MEALS, CATEGORIES } from "../data/dummy-data";
 import MealsList from "../components/MealsList/MealsList";
